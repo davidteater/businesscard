@@ -22,7 +22,7 @@ export default function Body() {
           size="sm"
           /> Interests</h2>
         <p>
-        When I&apos;m not coding, I&apos;m reading through cookbooks like they'&apos;re novels, swimming in Barton Springs, hiking charted trails, playing with my cat Piglette, or working on my current project: a fullstack, text-only, food and Austin travel blog
+        When I&apos;m not coding, I&apos;m reading through cookbooks like they&apos;re novels, swimming in Barton Springs, hiking charted trails, playing with my cat Piglette, or working on my current project: a fullstack, text-only, food and Austin travel blog
           utilizing GraphQL and React! I also like dabbling in anything IOT, automation, and generative AI related. 
         </p>
       </div>
