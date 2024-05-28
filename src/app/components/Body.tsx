@@ -12,7 +12,7 @@ export default function Body() {
           size="sm"
           /> About  </h2>
         <p>
-        Howdy! My name is H (pronounced like Aech from Ready Player One), and I&apos;m a Frontend Developer and Freelancer based in Austin, TX, with a passion for user experience. I specialize in MongoDB, Express, React, and Node, constantly staying updated with the latest technologies. I&apos;m currently accepting new clients, so please DM me if you&apos;d like to bring your vision to life!
+        Howdy! My name is H (pronounced like Aech from Ready Player One), and I&apos;m a Frontend Developer and Freelancer based in Austin, TX, with a passion for user experience. I specialize in MongoDB, Express, React, and Node, constantly staying updated with the latest technologies. <b>I&apos;m currently accepting new clients, so please DM me if you&apos;d like to bring your vision to life! </b>
         </p>
       </div>
       <div className="pt-3">
