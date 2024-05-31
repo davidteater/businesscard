@@ -1,6 +1,6 @@
 import { minify } from "next/dist/build/swc";
 import Image from "next/image";
-import me from './assets/profile.png'
+import me from './assets/profile2.jpg'
 import Header from "./components/Header";
 import Body from "./components/Body";
 import Footer from "./components/Footer";
