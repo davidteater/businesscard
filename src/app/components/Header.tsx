@@ -7,8 +7,8 @@ import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
 export default function Header() {
   return (
     <div className="flex flex-col text-center ">
-      <h1 className="">H. Grasso </h1>
-      <h3>Frontend Developer</h3>
+      <h1 className="">David Teater </h1>
+      <h3>Electrical Engineer & Graphic Designer</h3>
       <a href="http://h-grasso.dev">
         <p>h-grasso.dev</p>
       </a>
