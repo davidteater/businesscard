@@ -23,7 +23,7 @@ export default function Footer() {
           className="hover:text-rose-300"
           />
         </a>
-        <a href="https://github.com/AitchGrasso/" target="_blank" rel="noopener noreferrer" className="">
+        <a href="https://www.threads.net/@aitch_grasso" target="_blank" rel="noopener noreferrer" className="">
           <FontAwesomeIcon
           icon={faThreads}
           size="2x"

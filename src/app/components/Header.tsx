@@ -14,7 +14,7 @@ export default function Header() {
       </a>
       
       <div className="flex justify-evenly my-4 gap-4">
-        <a href="mailto:aitch.grasso@gmail.com" target="_blank" rel="noopener noreferrer" className="flex justify-center gap-4 bg-white hover:bg-rose-300 rounded text-black p-2 w-full items-center">
+        <a href="mailto:aitch.grasso@gmail.com" className="flex justify-center gap-4 bg-white hover:bg-rose-300 rounded text-black p-2 w-full items-center">
           <FontAwesomeIcon icon={faEnvelope}  size="sm"/>
           <h3 className="text-black">Email</h3>
         </a>
